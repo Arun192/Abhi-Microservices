@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private AddressResponse extracted(int id)&apos; from &apos;org.arun.service.EmployeeService.getEmployeeById(...)&apos; to &apos;org.arun.service.EmployeeService&apos;&#x0D;&#x0A;- Original project: &apos;EMPLOYEE-SERVICE&apos;&#x0D;&#x0A;- Method name: &apos;extracted&apos;&#x0D;&#x0A;- Destination type: &apos;org.arun.service.EmployeeService&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;extracted&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.arun.service{EmployeeService.java" name="extracted" replace="false" selection="1730 191" stamp="1669534246568" version="1.0" visibility="2"/>
+</session>

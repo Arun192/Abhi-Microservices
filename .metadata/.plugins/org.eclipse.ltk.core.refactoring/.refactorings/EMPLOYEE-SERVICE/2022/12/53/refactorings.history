@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;body&apos; from expression &apos;addressClient.getAddressByEmployeeId(id).getBody()&apos;&#x0D;&#x0A;- Original project: &apos;EMPLOYEE-SERVICE&apos;&#x0D;&#x0A;- Variable name: &apos;body&apos;&#x0D;&#x0A;- Destination method: &apos;org.arun.service.EmployeeService.getEmployeeById(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;addressClient.getAddressByEmployeeId(id).getBody()&apos;" description="Extract local variable &apos;body&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.arun.service{EmployeeService.java" name="body" replace="false" selection="2089 50" stamp="1672054493936" varType="false" version="1.0"/>
+</session>
